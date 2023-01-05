@@ -9,6 +9,6 @@ public class Scope {
             System.out.println(x + " " + y);
             x = y*2;
         }
-        System.out.println(x + " " + y); // как видим здесь У уже недоступна
+       // System.out.println(x + " " + y); // как видим здесь У уже недоступна
     }
 }
