@@ -8,7 +8,7 @@ public class BoolTest {
         b = true;
         System.out.println("b равно: " + b);
 
-        // значение типа boolean может управлять оператором  if
+        // значение типа boolean может управлять оператором  if%
 
         if (b) System.out.println("Этот код выполняется");
         b = false;
