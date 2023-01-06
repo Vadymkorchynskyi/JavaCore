@@ -14,7 +14,7 @@ public class BoolTest {
         b = false;
         if (b) System.out.println("Этот код НЕ выполняется");
 
-        // результат сравнения
+        // результат сравнения:
 
         System.out.println("10 больше 9 равно: " + (10>9));
     }
