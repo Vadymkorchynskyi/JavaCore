@@ -19,3 +19,4 @@ public class BoolTest {
         System.out.println("10 больше 9 равно: " + (10>9));
     }
 }
+
