@@ -1,5 +1,5 @@
 package chapter03;
-
+// резервируем память вручную
 public class TwoDAgain {
     public static void main(String[] args) {
         int twoD[][] = new int[4][];
