@@ -11,7 +11,7 @@ public class TwoDArray {
             }
         for (i = 0; i < 4; i++) {
             for (j = 0; j < 15; j++)
-                System.out.print(twoD[i][j] + " ");
+                System.out.print(twoD[i][j] + "     ");
             System.out.println();
             // end
         }
