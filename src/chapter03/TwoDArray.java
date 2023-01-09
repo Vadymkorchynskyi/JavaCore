@@ -13,6 +13,7 @@ public class TwoDArray {
             for (j = 0; j < 5; j++)
                 System.out.print(twoD[i][j] + " ");
             System.out.println();
+            // end
         }
     }
 }
